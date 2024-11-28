@@ -1,0 +1,22 @@
+#na, #result{
+    background-color: rgb(110, 97, 97);
+    width: 200px;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 40px;
+
+}
+
+#cal{
+   margin: 20px;
+}
+
+body{
+    background-color: rgb(180, 198, 212);
+}
+
+.hide{
+    display: none;
+}

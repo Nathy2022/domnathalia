@@ -1,0 +1,17 @@
+#main, #resultado{
+    background-color: rgb(148, 142, 142);
+    width: 200px;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+    
+
+}
+
+input, button{
+    margin-top: 20px;
+}
+
+.hide{
+    display: none;
+}
